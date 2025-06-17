@@ -21,7 +21,7 @@
 #Step 3: Install required Python packages
 #Run this command to install all necessary dependencies:
 
-#pip install -r requirements.txt
+#pip install -r requirements.py
 
 
 
