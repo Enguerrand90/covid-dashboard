@@ -33,7 +33,7 @@
 #Install the API dependencies if you haven't yet:
 
 #pip install fastapi uvicorn
-#uvicorn api:app --reload
+#python -m uvicorn api:app --reload
 
 #This will start the API server at: http://127.0.0.1:8000
 
@@ -41,7 +41,7 @@
 #Step 5: Run the Streamlit application
 #With the API server running, open another terminal window and launch the Streamlit app by running:
 
-#streamlit run app.py
+#python -m streamlit run app.py
 
 #Your default browser should automatically open the app at: http://localhost:8501
 
